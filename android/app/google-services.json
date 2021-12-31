@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971317983431",
+    "project_id": "gymvale-72567",
+    "storage_bucket": "gymvale-72567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971317983431:android:98dd3197554681b6e726e2",
+        "android_client_info": {
+          "package_name": "com.gymvale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971317983431-jv3oe7nntc80c5h0na4vjqmuhqln2l1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghJUCHznqRChhJCNHeyz29m5z30GxaOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971317983431-jv3oe7nntc80c5h0na4vjqmuhqln2l1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
